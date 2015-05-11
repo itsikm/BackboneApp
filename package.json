@@ -1,0 +1,22 @@
+{
+  "name": "BackboneApp",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/itsikm/BackboneApp.git"
+  },
+  "keywords": [
+    "Backbone",
+    "App"
+  ],
+  "author": "Itsik Maman",
+  "license": "Apache License 2.0",
+  "bugs": {
+    "url": "https://github.com/itsikm/BackboneApp/issues"
+  }
+}
